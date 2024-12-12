@@ -2,7 +2,7 @@
 .hero{
 	display: flex;
 	justify-content: left ;
-	align-items: left;
+	align-items: center;
 }
 
 img{
